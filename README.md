@@ -1,13 +1,14 @@
-# Smart-object-E.V.A-
+# Smart object E.V.A.
 
-<p align="center"><img src="https://cdn-learn.adafruit.com/guides/images/000/001/309/medium310/2000px-Arduino_Logo.svg.png?1462581401"></p>
+<p align="center"><img src="http://www.arduino.org/images/arduino_official_Logo__.png"></p>
 
-Installation instructions:
+How to install (windows):
 
 1- Copy Hover and Beam folders to C:\Users\NOME\Documents\Arduino\libraries
 
 2- Open with Arduino IDE
 
+<hr>
 <p>MCMM-MI | UA</p>
 <p>Universidade de Aveiro</p>
 <p>2017</p>
