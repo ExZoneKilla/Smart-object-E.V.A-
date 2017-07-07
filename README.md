@@ -1,21 +1,17 @@
 # Smart-object-E.V.A-
 
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://cdn-learn.adafruit.com/guides/images/000/001/309/medium310/2000px-Arduino_Logo.svg.png?1462581401"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Installation instructions:
 
-## EVA Mirror API
+1- Copy Hover and Beam folders to C:\Users\NOME\Documents\Arduino\libraries
+
+2- Open with Arduino IDE
 
 <p>MCMM-MI | UA</p>
 <p>Universidade de Aveiro</p>
 <p>2017</p>
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
 
